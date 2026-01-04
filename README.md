@@ -1,43 +1,50 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=200&section=header&text=Hi%20I'm%20Thinnur!&fontSize=70&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=220&section=header&text=Thinnur&fontSize=80&animation=fadeIn&fontAlign=50&fontColor=ffffff" width="100%"/>
 
-  <h3>👨‍💻 Network Engineering Student @ SV UGM</h3>
-  
+  <h3>🚀 Network Engineering Student @ SV UGM</h3>
   <p>
-     Saya mahasiswa Teknologi Rekayasa Internet yang tertarik pada 
-     <b>Network Automation</b>, <b>Cloud Computing</b>, dan <b>Python Development</b>.
+    Exploring the world of <b>Cloud Computing</b>, <b>Network Automation</b>, and <b>Python</b>.
   </p>
 
   <br/>
 
-  <h3>🛠️ Languages & Tools</h3>
+  <h3>🛠️ Tech & Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/MikroTik-CD3C2E?style=for-the-badge&logo=mikrotik&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </p>
 
   <br/>
 
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 Coding Activity</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Thinnur&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinnur&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+    <a href="https://github.com/Thinnur">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thinnur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Thinnur's GitHub stats" />
+    </a>
+    <a href="https://github.com/Thinnur">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinnur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Thinnur's Top Languages" />
+    </a>
   </p>
 
   <br/>
 
-  <h3>📫 Connect with Me</h3>
   <p>
-    <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/LINKEDIN-KAMU">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:EMAIL-KAMU@mail.ugm.ac.id">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=100&section=footer" width="100%"/>
 
 </div>
