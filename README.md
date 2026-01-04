@@ -27,10 +27,10 @@ name: Thinnur
 location: Yogyakarta, Indonesia
 education: Network Engineering @ SV UGM
 interests: 
-  - Cloud Computing ☁️
-  - Network Automation 🔄
-  - Python Development 🐍
-  - Infrastructure as Code 🏗️
+  - Cloud Computing
+  - Network Automation
+  - Python Development
+  - Infrastructure as Code
 currently_learning:
   - Kubernetes
   - Terraform
@@ -66,26 +66,14 @@ currently_learning:
 
 ---
 
-### 🐍 Contribution Graph
+### 💭 Random Dev Quote
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-  <br/><br/>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=100&section=footer" width="100%" />
-  
 </div>
