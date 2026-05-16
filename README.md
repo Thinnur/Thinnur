@@ -27,10 +27,10 @@ handle:   @Thinnur
 location: Yogyakarta, Indonesia
 study:    Internet Engineering Technology — Sekolah Vokasi UGM
 focus:
-  - Network Infrastructure (Cisco · MikroTik · MPLS)
+  - Network Infrastructure (Cisco · MikroTik)
   - Web Development (React.js · Node.js)
   - Embedded Systems (ESP32 · IoT)
-  - UI/UX & Visual Branding (Figma · Adobe Suite)
+  - UI/UX & Visual Branding (Figma · Canva)
 ```
 
 ---
@@ -53,8 +53,6 @@ focus:
 **Design & Creative**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
