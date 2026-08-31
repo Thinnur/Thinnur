@@ -27,6 +27,7 @@ jobs:
 
       - name: Inject Maze Lines
         run: |
+          sudo chmod -R 777 dist
           python3 .github/scripts/inject_maze.py
           
       - name: push github-contribution-grid-snake.svg to the output branch
