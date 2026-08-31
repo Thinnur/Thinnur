@@ -1,12 +1,23 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thinnur&label=PROFILE+VIEWS&color=00adb5&style=flat-square" alt="Profile Views" />
+
+```
+███████╗ █████╗ ████████╗██╗  ██╗██╗███╗   ██╗███╗   ██╗██╗   ██╗██████╗ 
+██╔════╝██╔══██╗╚══██╔══╝██║  ██║██║████╗  ██║████╗  ██║██║   ██║██╔══██╗
+█████╗  ███████║   ██║   ███████║██║██╔██╗ ██║██╔██╗ ██║██║   ██║██████╔╝
+██╔══╝  ██╔══██║   ██║   ██╔══██║██║██║╚██╗██║██║╚██╗██║██║   ██║██╔══██╗
+██║     ██║  ██║   ██║   ██║  ██║██║██║ ╚████║██║ ╚████║╚██████╔╝██║  ██║
+╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+**Muhammad Fathinnur Akrom Aziz**
+
+*Internet Engineering Technology · Vocational School UGM*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Network+%26+Infrastructure+Engineer;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems;UI%2FUX+%26+Creative+Technologist)](https://git.io/typing-svg)
+
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Engineer;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems;UI%2FUX+%26+Creative+Technologist" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <a href="mailto:fathin.akrom.22@gmail.com">
