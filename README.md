@@ -17,7 +17,9 @@
 
 </div>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+</p>
 
 <p align="center">
   <a href="mailto:fathin.akrom.22@gmail.com">
@@ -31,8 +33,6 @@
   </a>
 </p>
 
-<br />
-
 ### 👨‍💻 About Me
 
 I'm an engineering student at **UGM**, blending physical infrastructure with modern web experiences. I build everything from network topologies and IoT devices to full-stack applications.
@@ -41,7 +41,9 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 - 🌱 **Currently exploring:** Advanced AI agent architectures, local LLM orchestration, and smart home automation.
 - ⚡ **Fun fact:** I automate my local environment with custom AI agents and build headless auto-checkout bots for fun.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -60,7 +62,9 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 <img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/espressif.svg" alt="ESP32" />
 <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+</p>
 
 ### 📊 GitHub Activity
 
@@ -75,6 +79,10 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 <div align="center">
   <img src="https://github-readme-stats-extended.vercel.app/api?username=Thinnur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=8892b0&rank_icon=github" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thinnur&theme=tokyonight&hide_border=true&background=00000000&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinnur&theme=tokyonight" height="165" alt="Activity Summary" />
 </div>
 
 <div align="center">
