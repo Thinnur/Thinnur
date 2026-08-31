@@ -65,7 +65,7 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://readme-stats.lecoq.io/api?username=Thinnur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=8892b0&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Thinnur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=8892b0&rank_icon=github" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thinnur&theme=tokyonight&hide_border=true&background=00000000&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" height="165" alt="GitHub Streak" />
 </div>
 
