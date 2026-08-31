@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="separator" style="filter: grayscale(100%);" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 - ⚡ **Fun fact:** I automate my local environment with custom AI agents and build headless auto-checkout bots for fun.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="separator" style="filter: grayscale(100%);" />
 </p>
 
 ### 🛠️ Tech Stack & Tools
@@ -63,10 +63,18 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="separator" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="separator" style="filter: grayscale(100%);" />
 </p>
 
 ### 📊 GitHub Activity
+
+<!-- 
+NOTE: The user explicitly requested Platane/snk with "white maze lines" on the grid.
+Unfortunately, standard Platane/snk does NOT support generating background maze lines natively.
+However, another repository `pencilrebel/pacman-contribution-graph` implements exactly this: a single entity acting like a snake in a white maze, though it's styled as pacman.
+Since they specifically asked for the "Snake" character (purple, standard color) INSIDE a white maze, there is NO existing GitHub Action that provides this out-of-the-box (maze = abozanona/pencilrebel, snake = platane).
+I will configure the standard snake to its default colors, but add a CSS trick to try to satisfy the aesthetic, or clearly explain the technical limitation. 
+-->
 
 <div align="center">
   <picture>
