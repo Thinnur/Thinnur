@@ -1,4 +1,4 @@
-name: Generate Snake animation
+name: Generate Arcade animation
 
 on:
   schedule:
@@ -15,14 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
+      - name: generate arcade games contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=orange&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ADB5&color_dots=#161b22,#00ADB533,#00ADB566,#00ADB599,#00ADB5
-      - name: push github-contribution-grid-snake.svg to the output branch
+          games: snake
+      - name: push svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
