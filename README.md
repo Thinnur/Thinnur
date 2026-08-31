@@ -1,20 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=200&section=header&text=Muhammad%20Fathinnur%20Akrom&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Internet%20Engineering%20Technology%20@%20Sekolah%20Vokasi%20UGM&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
-  
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Engineer;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems;UI%2FUX+%26+Creative+Technologist" alt="Typing SVG" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="mailto:fathin.akrom.22@gmail.com"><img src="https://img.shields.io/badge/Email-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://akzara.id"><img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/Thinnur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Thinnur&label=PROFILE+VIEWS&color=00adb5&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Engineer;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems;UI%2FUX+%26+Creative+Technologist" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="mailto:fathin.akrom.22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=00adb5" alt="Email" />
+  </a>
+  <a href="https://akzara.id">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=globe&logoColor=00adb5" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Thinnur">
+    <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=00adb5" alt="GitHub" />
+  </a>
+</p>
+
+<br />
 
 ### 👨‍💻 About Me
 
@@ -36,10 +42,10 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 
 **Network & IoT**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-<img src="https://img.shields.io/badge/MikroTik-CD3C2E?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Cisco-222222?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" />
+<img src="https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=CD3C2E" alt="MikroTik" />
+<img src="https://img.shields.io/badge/ESP32-222222?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-222222?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
 
 ---
 
