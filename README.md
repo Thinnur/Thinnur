@@ -55,9 +55,10 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 
 **Network & IoT**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-242938?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" height="48" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/MikroTik-242938?style=for-the-badge&logo=mikrotik&logoColor=CD3C2E" alt="MikroTik" height="48" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/ESP32-242938?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" height="48" style="border-radius: 8px;"/>
+<!-- Since skillicons.dev lacks Cisco/Mikrotik/ESP32, we fake the exact squircles format using shields.io without text! -->
+<img src="https://img.shields.io/badge/-242938?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco" height="48" width="48" style="border-radius: 12px;"/>
+<img src="https://img.shields.io/badge/-242938?style=flat-square&logo=mikrotik&logoColor=CD3C2E" alt="MikroTik" height="48" width="48" style="border-radius: 12px;"/>
+<img src="https://img.shields.io/badge/-242938?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" height="48" width="48" style="border-radius: 12px;"/>
 <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
 
 ---
