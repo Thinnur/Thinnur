@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thinnur&label=PROFILE+VIEWS&color=00adb5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Thinnur&label=PROFILE+VIEWS&color=00adb5&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="mailto:fathin.akrom.22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=00adb5" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=00adb5" alt="Email" />
   </a>
   <a href="https://akzara.id">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=globe&logoColor=00adb5" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=globe&logoColor=00adb5" alt="Portfolio" />
   </a>
   <a href="https://github.com/Thinnur">
-    <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=00adb5" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=00adb5" alt="GitHub" />
   </a>
 </p>
 
@@ -40,12 +40,14 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,supabase,linux,bash,figma,ai&theme=dark" alt="Skill Icons" />
 </a>
 
+<br/>
+
 **Network & IoT**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-222222?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" />
-<img src="https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=CD3C2E" alt="MikroTik" />
-<img src="https://img.shields.io/badge/ESP32-222222?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-222222?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Cisco-222222?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco" />
+<img src="https://img.shields.io/badge/MikroTik-222222?style=flat-square&logo=mikrotik&logoColor=CD3C2E" alt="MikroTik" />
+<img src="https://img.shields.io/badge/ESP32-222222?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-222222?style=flat-square&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
 
 ---
 
