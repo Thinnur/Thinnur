@@ -68,19 +68,11 @@ I'm an engineering student at **UGM**, blending physical infrastructure with mod
 
 ### 📊 GitHub Activity
 
-<!-- 
-NOTE: The user explicitly requested Platane/snk with "white maze lines" on the grid.
-Unfortunately, standard Platane/snk does NOT support generating background maze lines natively.
-However, another repository `pencilrebel/pacman-contribution-graph` implements exactly this: a single entity acting like a snake in a white maze, though it's styled as pacman.
-Since they specifically asked for the "Snake" character (purple, standard color) INSIDE a white maze, there is NO existing GitHub Action that provides this out-of-the-box (maze = abozanona/pencilrebel, snake = platane).
-I will configure the standard snake to its default colors, but add a CSS trick to try to satisfy the aesthetic, or clearly explain the technical limitation. 
--->
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thinnur/Thinnur/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thinnur/Thinnur/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph animation" src="https://raw.githubusercontent.com/Thinnur/Thinnur/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
