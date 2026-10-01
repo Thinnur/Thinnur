@@ -39,10 +39,12 @@ Engineering student at **Universitas Gadjah Mada**, working where physical infra
 
 **Network & IoT**
 
-<img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/cisco.svg" alt="Cisco" />
-<img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/mikrotik.svg" alt="MikroTik" />
-<img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/espressif.svg" alt="ESP32" />
-<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
+<p>
+  <img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/cisco.svg" alt="Cisco" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/mikrotik.svg" alt="MikroTik" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Thinnur/Thinnur/main/icons/espressif.svg" alt="ESP32" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
+</p>
 
 ## GitHub Activity
 
